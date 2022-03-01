@@ -1,23 +1,39 @@
-<!DOCTYPE HTML>
-<html lang="pt-BR">
+<!DOCTYPE html>
+<html lang="pt-br">
+
 <head>
 	<meta charset="UTF-8">
-	<title>AND</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<meta name="viewport" content="width=device-width,
+	 initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="description" content="Simulador de operadores lógicos">
+	<title>Operadores lógicos.</title>
+	<link rel="icon" href="img/favicon.png">
+	<link rel="stylesheet" href="style.css">
 </head>
-<body>
-	<h1>Operadores lógicos</h1>
-	<nav>
-		<ul>
-			<li><a href="index.html">Home</a></li>
-			<li><a href="and.html">AND</a></li>
-			<li><a href="or.html">OR</a></li>
-			<li><a href="not.html">NOT</a></li>
-			<li><a href="https://www.youtube.com/playlist?list=PLbEOwbQR9lqyuy7U1YjGgBv0x2Hzuw569" target="_blank">JS</a></li>
-			<li><a href="https://www.youtube.com/playlist?list=PLbEOwbQR9lqxHno2S-IiG9-lePyRNOO_E" target="_blank">C</a></li>
-			<li><a href="https://github.com/professorjosedeassis/logical-operators" target="_blank">GitHub</a></li>
-		</ul>
-	</nav>
-	<img src="light-bulb-3104355_640.jpg" alt="operadores lógicos">		
+
+<body id="operators">
+	<header>
+		<h1>Operadores lógicos</h1>
+		<nav>
+			<ul>
+				<li><a href="index.html" id="op">Home</a></li>
+				<li><a href="and.html" id="p1">AND</a></li>
+				<li><a href="or.html" id="p2">OR</a></li>
+				<li><a href="not.html" id="p3">NOT</a></li>
+				<li><a href="https://github.com/professorjosedeassis/logical-operators" target="_blank">GitHub</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<div class="Content">
+		<img src="img/on.jpg" alt="lâmpada" id="lamp" onclick="sw(3)">
+	</div>
+
+	<footer>
+		<p>©2022 - Professor José de Assis</p>
+	</footer>
+	<script src="logica.js"></script>
 </body>
+
 </html>

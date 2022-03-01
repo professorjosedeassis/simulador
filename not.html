@@ -1,29 +1,42 @@
-<!DOCTYPE HTML>
-<html lang="pt-BR">
+<!DOCTYPE html>
+<html lang="pt-br">
+
 <head>
 	<meta charset="UTF-8">
-	<title>AND</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<meta name="viewport" content="width=device-width,
+	 initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="description" content="Simulador de operadores lógicos">
+	<title>Operadores lógicos.</title>
+	<link rel="icon" href="img/favicon.png">
+	<link rel="stylesheet" href="style.css">
 </head>
-<body>
-	<h1>Operadores lógicos</h1>	
+
+<body id="opnot">
+	<h1>Operadores lógicos</h1>
 	<nav>
 		<ul>
-			<li><a href="index.html">Home</a></li>
-			<li><a href="and.html">AND</a></li>
-			<li><a href="or.html">OR</a></li>
-			<li><a href="not.html">NOT</a></li>
-			<li><a href="https://www.youtube.com/playlist?list=PLbEOwbQR9lqyuy7U1YjGgBv0x2Hzuw569" target="_blank">JS</a></li>
-			<li><a href="https://www.youtube.com/playlist?list=PLbEOwbQR9lqxHno2S-IiG9-lePyRNOO_E" target="_blank">C</a></li>			
+			<li><a href="index.html" id="op">Home</a></li>
+			<li><a href="and.html" id="p1">AND</a></li>
+			<li><a href="or.html" id="p2">OR</a></li>
+			<li><a href="not.html" id="p3">NOT</a></li>
+			<li><a href="https://github.com/professorjosedeassis/logical-operators" target="_blank">GitHub</a></li>
 		</ul>
 	</nav>
-	<img src="swoff.png" id="sw1" onclick="sw(1)">
-	<img src="on.jpg" id="lamp" onclick="sw(3)">
-	<hr>
-	<p>
-		<img src="circ_not.png">
-		<img src="tabelnot.png">		
-	</p>
-<script src="logica.js"></script>
+	<div class="Content">
+		<img src="img/swoff.png" alt="interruptor" id="sw1" onclick="sw(1)">
+		<img src="img/on.jpg" alt="lâmpada" id="lamp" onclick="sw(3)">
+		<hr>
+		<p>
+			<img src="img/circ_not.png" alt="circuito">
+			<img src="img/tabelnot.png" alt="operador not">
+		</p>
+	</div>
+
+	<footer>
+		<p>©2022 - Professor José de Assis</p>
+	</footer>
+	<script src="logica.js"></script>
 </body>
+
 </html>
