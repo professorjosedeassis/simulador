@@ -2,7 +2,7 @@
 ![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fprofessorjosedeassis.github.io%2Flogical-operators%2F)
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/logical-operators)
 # Operadores lógicos
-:octocat: Este repositório hospeda o simulador de operadores lógicos e foi usado como um dos exemplos do curso git e GitHub.
+:octocat: Este repositório hospeda o simulador de operadores lógicos (**AND - OR - NOT**) e foi usado como um dos exemplos do curso git e GitHub.
 ### Autor
 Professor José de Assis
 ### Videoaula (Como hospeadar um site gratuitamente no GitHub)
@@ -12,7 +12,7 @@ Professor José de Assis
 ### Playlist
 [Iniciar curso](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj)
 ### Simulador  
-[acessar](https://professorjosedeassis.github.io/logical-operators/)
+[Iniciar simulação](https://professorjosedeassis.github.io/logical-operators/)
 ## Como apoiar os cursos gratuitos e projetos?
 Você pode:
 - Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
