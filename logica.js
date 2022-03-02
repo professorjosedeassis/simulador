@@ -1,7 +1,7 @@
 /**
-* JS - Operadores Lógicos
-* @author Professor José de Assis
-* https://joseassis.com.br
+  JS - Operadores Lógicos
+  @author Professor José de Assis
+  https://joseassis.com.br
 */
 
 let sw1 = false
