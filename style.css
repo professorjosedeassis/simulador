@@ -1,6 +1,6 @@
 /**
-	Folha de estilo - Simulador de operadores lógicos
-	@author Professor José de Assis
+  Folha de estilo - Simulador de operadores lógicos
+  @author Professor José de Assis
   https://joseassis.com.br/
 */
 
@@ -87,7 +87,7 @@ footer {
 }
 
 @media (min-width: 576px) {
-  h1 {
+  header h1 {
     text-align: left;
   }
 
