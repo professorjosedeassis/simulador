@@ -1,39 +1,46 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width,
+	 initial-scale=1.0"
+    />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="description" content="Simulador de operadores lógicos" />
+    <title>Operadores lógicos.</title>
+    <link rel="icon" href="img/favicon.png" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
 
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width,
-	 initial-scale=1.0">
-	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="description" content="Simulador de operadores lógicos">
-	<title>Operadores lógicos.</title>
-	<link rel="icon" href="img/favicon.png">
-	<link rel="stylesheet" href="style.css">
-</head>
+  <body id="operators">
+    <header>
+      <h1>Operadores lógicos</h1>
+      <nav>
+        <ul>
+          <li><a href="index.html" id="op">Home</a></li>
+          <li><a href="and.html" id="p1">AND</a></li>
+          <li><a href="or.html" id="p2">OR</a></li>
+          <li><a href="not.html" id="p3">NOT</a></li>
+          <li>
+            <a
+              href="https://github.com/professorjosedeassis/logical-operators"
+              target="_blank"
+              >GitHub</a
+            >
+          </li>
+        </ul>
+      </nav>
+    </header>
 
-<body id="operators">
-	<header>
-		<h1>Operadores lógicos</h1>
-		<nav>
-			<ul>
-				<li><a href="index.html" id="op">Home</a></li>
-				<li><a href="and.html" id="p1">AND</a></li>
-				<li><a href="or.html" id="p2">OR</a></li>
-				<li><a href="not.html" id="p3">NOT</a></li>
-				<li><a href="https://github.com/professorjosedeassis/logical-operators" target="_blank">GitHub</a></li>
-			</ul>
-		</nav>
-	</header>
+    <div class="Content">
+      <img src="img/on.jpg" alt="lâmpada" id="lamp" onclick="sw(3)" />
+    </div>
 
-	<div class="Content">
-		<img src="img/on.jpg" alt="lâmpada" id="lamp" onclick="sw(3)">
-	</div>
-
-	<footer>
-		<p>©2022 - Professor José de Assis</p>
-	</footer>
-	<script src="logica.js"></script>
-</body>
-
+    <footer>
+      <p>©2022 - Professor José de Assis</p>
+    </footer>
+    <script src="logica.js"></script>
+  </body>
 </html>
