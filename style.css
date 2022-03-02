@@ -1,94 +1,102 @@
 /**
 	Folha de estilo - Simulador de operadores lógicos
 	@author Professor José de Assis
+  https://joseassis.com.br/
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
 
 body {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 1em;
-}
-
-h1 {
-	color: #cc470d;
-	text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1em;
 }
 
 img {
-	max-width: 100%;	
+  max-width: 100%;
 }
 
+header h1 {
+  color: #cc470d;
+  text-align: center;
+}
+
+/* Menu */
 nav {
-	width: 100%;
-	margin-bottom: 15px;
+  width: 100%;
 }
 
 nav ul {
-	list-style: none;
-	padding: 0;
-	margin: 0;
-	background-color: #e15a1f;
-	overflow: hidden;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  background-color: #e15a1f;
+  overflow: hidden;
 }
 
-nav ul li { 
-	float: left;
+nav ul li {
+  float: left;
 }
 
 nav ul li a {
-	text-decoration: none;
-	color: #fff;
-	padding: 7px 15px 5px 15px;	
-	display: block; 
+  text-decoration: none;
+  color: #fff;
+  padding: 10px 15px;
+  display: block;
 }
 
-nav ul li a:hover { 
-	background-color: #cc470d;
-}
-
-.Content {
-	margin: 50px 0px;
-	text-align: center;
-}
-
-footer {
-	width: 100%;
-	background-color: #cc470d;
-	color: #fff;
-	padding: 5px 0px;
-	text-align: center;
-	font-size: 0.85em;
-}
-
-#sw1 {
-	float: left;
-}
-
-#sw2 {
-	float: right;
-}
-
-#lamp, #sw1, #sw2 {
-	cursor: pointer;
+nav ul li a:hover {
+  background-color: #cc470d;
+  transition: all 0.4s;
 }
 
 /* Destacar link */
-#operators a#op, #opand a#p1, #opor a#p2, #opnot a#p3 {
-	cursor: default;
-	background-color: #cc470d;
+#operators a#op,
+#opand a#p1,
+#opor a#p2,
+#opnot a#p3 {
+  cursor: default;
+  background-color: #cc470d;
+}
+
+.Content {
+  margin: 50px 0px;
+  text-align: center;
+}
+
+footer {
+  width: 100%;
+  background-color: #cc470d;
+  color: #fff;
+  padding: 5px 0px;
+  text-align: center;
+  font-size: 0.85em;
+}
+
+#sw1 {
+  float: left;
+}
+
+#sw2 {
+  float: right;
+}
+
+#lamp,
+#sw1,
+#sw2 {
+  cursor: pointer;
 }
 
 @media (min-width: 576px) {
-	h1 {
-		text-align: left;
-	}
+  h1 {
+    text-align: left;
+  }
 
-	.Content {
-		text-align: left;
-	}
+  .Content {
+    text-align: left;
+  }
 
-	#sw1, #sw2 {
-		float: none;
-	}
+  #sw1,
+  #sw2 {
+    float: none;
+  }
 }
