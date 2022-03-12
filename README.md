@@ -11,6 +11,8 @@ Professor José de Assis
 ![YouTube Video Views](https://img.shields.io/youtube/views/28lkK072FCY?style=social)
 ### Playlist
 [Iniciar curso](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj)
+### Certificado
+[Iniciar teste](https://forms.gle/R7iabpjXkbfjwaWj8)
 ### Simulador  
 [Iniciar simulação](https://professorjosedeassis.github.io/logical-operators/)
 ## Como apoiar os cursos gratuitos e projetos?
