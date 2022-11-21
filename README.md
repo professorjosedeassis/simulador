@@ -1,6 +1,6 @@
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fprofessorjosedeassis.github.io%2Flogical-operators%2F)
-![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fprofessorjosedeassis.github.io%2Flogical-operators%2F)
-![GitHub](https://img.shields.io/github/license/professorjosedeassis/logical-operators)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fprofessorjosedeassis.github.io%2Fsimulador%2F)
+![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fprofessorjosedeassis.github.io%2Fsimulador%2F)
+![GitHub](https://img.shields.io/github/license/professorjosedeassis/simulador)
 # Simulador de operadores lógicos
 Este repositório hospeda o simulador de operadores lógicos (**AND - OR - NOT**).
 
