@@ -9,6 +9,7 @@ let sw2 = false
 let broken = false
 let receive
 let identify = window.location.pathname
+alert(identify)
 
 function sw(receive) {
   if (receive === 1 && sw1 === false) {
