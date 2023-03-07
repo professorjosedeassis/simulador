@@ -16,7 +16,7 @@ Professor José de Assis
 ### Certificado
 [Iniciar teste](https://forms.gle/R7iabpjXkbfjwaWj8)
 ### Simulador  
-[Iniciar simulação](https://professorjosedeassis.github.io/logical-operators/)
+[Iniciar simulação](https://professorjosedeassis.github.io/simulador/)
 ## Como apoiar os tutoriais e projetos?
 ### Você pode:
 :heavy_check_mark: Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
