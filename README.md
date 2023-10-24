@@ -15,8 +15,8 @@ Professor José de Assis
 [![gitegithub](https://img.youtube.com/vi/FF1f4bKYhoo/0.jpg)](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj "Assistir no YouTube")
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/FF1f4bKYhoo?style=social)
-### Playlist
-[Iniciar tutorial](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj)
+### Iniciar tutorial:
+[Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj)
 ## Como apoiar os tutoriais e projetos?
 ### Você pode:
 :heavy_check_mark: Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
