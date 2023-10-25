@@ -7,6 +7,8 @@ Este repositório hospeda um simulador dos operadores lógicos (**AND - OR - NOT
 [Iniciar simulação](https://professorjosedeassis.github.io/simulador/)
 
 ![simulador](https://github.com/professorjosedeassis/simulador/blob/master/img/simulador.png)
+### Autor
+Professor José de Assis
 ## Como apoiar os tutoriais e projetos?
 ### Você pode:
 :heavy_check_mark: Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
