@@ -2,7 +2,7 @@
 ![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fprofessorjosedeassis.github.io%2Fsimulador%2F)
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/simulador)
 # Simulador dos operadores lógicos (AND - OR - NOT)
-Este repositório hospeda o simulador dos operadores lógicos (**AND - OR - NOT**).
+Este repositório hospeda um simulador dos operadores lógicos (**AND - OR - NOT**) desenvolvido com JavaScript.
 
 [Iniciar simulação](https://professorjosedeassis.github.io/simulador/)
 
