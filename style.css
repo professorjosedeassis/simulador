@@ -67,9 +67,14 @@ footer {
   width: 100%;
   background-color: #cc470d;
   color: #fff;
-  padding: 5px 0px;
-  text-align: center;
+  padding: 5px 0px;  
   font-size: 0.85em;
+  text-align: center;
+}
+
+footer a {
+  text-decoration: none;
+  color: #fff;
 }
 
 #sw1 {
